@@ -1,4 +1,4 @@
-# seed
+# Seed - Fastest OSINT Username Searcher
 
 ## Disclaimer
 ```
